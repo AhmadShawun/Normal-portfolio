@@ -193,10 +193,11 @@ main {
     display: flex;
     gap: 100px;
     background-color: #FFF8F3;
-    padding: 130px 200px;
-    
+    padding: 130px 200px;   
 }
-
+.contact a{
+    text-decoration: none;
+}
 .contact input[type="text"],input[type="email"],
 textarea {
     margin-bottom: 24px;
